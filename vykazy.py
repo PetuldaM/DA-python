@@ -32,7 +32,6 @@ remaining_holiday = {"Marta Nováková": 120, "Michael Rostock-Poplar": 96, "Ond
 
 report = {}
 report_project = {}
-# report_project_employee = {'TrendVision': {'Marta Nováková': 0, 'Michael Rostock-Poplar': 0}, 'DataDive': {'Marta Nováková': 0, 'Daniela Bérová': 0}, 'Mandala': {'Michael Rostock-Poplar': 0, 'Ivan Pilný': 0}, 'PulseCheck': {'Michael Rostock-Poplar': 0, 'Daniela Bérová': 0, 'Ivan Pilný': 0}, 'FinanceFlare': {'Ondřej Bartoš': 0}}
 report_project_employee = {}
 
 for line in data:
